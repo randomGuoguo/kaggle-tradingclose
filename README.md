@@ -13,7 +13,8 @@ https://github.com/nimashahbazi/optiver-trading-close
 
 ## Boosting Models 
 - **XGBoost**
-   reference:https://github.com/ChunhanLi/9th-kaggle-optiver-trading-close
+   https://github.com/ChunhanLi/9th-kaggle-optiver-trading-close
+  
    https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/486868
 
 

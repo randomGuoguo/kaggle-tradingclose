@@ -7,10 +7,11 @@ https://www.kaggle.com/competitions/optiver-trading-at-the-close
 ## NN Models
 - **LSTM**
 - **ConvNet**
+
 https://github.com/nimashahbazi/optiver-trading-close
 
 
 ## Boosting Models 
-- **XGBoost**:https://github.com/ChunhanLi/9th-kaggle-optiver-trading-close
+- **XGBoost**: https://github.com/ChunhanLi/9th-kaggle-optiver-trading-close
 
 

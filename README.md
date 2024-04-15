@@ -14,7 +14,7 @@ https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/4861
 
 
 ## Boosting Models 
-- **XGBoost**
+- **XGBoost**(未使用online learning)
 
   https://github.com/ChunhanLi/9th-kaggle-optiver-trading-close
   

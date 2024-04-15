@@ -10,6 +10,8 @@ https://www.kaggle.com/competitions/optiver-trading-at-the-close
 
 https://github.com/nimashahbazi/optiver-trading-close
 
+https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/486169
+
 
 ## Boosting Models 
 - **XGBoost**

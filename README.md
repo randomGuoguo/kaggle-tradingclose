@@ -20,4 +20,8 @@ https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/4861
   
   https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/486868
 
+## Keras框架
+- **中文文档**
+
+  https://keras-zh.readthedocs.io/models/sequential/
 
